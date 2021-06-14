@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neha Devi Shakya</h1>
-<h3 align="center">A passionate Data Science bachelor student with knowledge in Python and R. Passionate about data analysis, machine learning and artificial intelligence.</h3>
+<h3 align="center">A passionate Data Science bachelor student with knowledge in Python and R. Interested in data analysis, machine learning and artificial intelligence.</h3>
 
 - 🌱 I’m currently learning **Machine Learning with Python**
 
