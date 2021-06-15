@@ -18,7 +18,6 @@
 <a href="https://instagram.com/neha_d_shakya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="neha_d_shakya" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/neha_d_shakya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="neha_d_shakya" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/nehadshakya/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nehadshakya/profile" height="30" width="40" /></a>
-<a href="https://discord.gg/NenikGamer#2471" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="NenikGamer#2471" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
